@@ -33,3 +33,9 @@ defaults:
     values:
       layout: default
       lang: zh
+  -
+    scope:
+      path: _posts/kr
+    values:
+      layout: default
+      lang: kr

@@ -1,0 +1,9 @@
+---
+layout: es-default
+title: Bitácora
+---
+{% for post in site.posts %}      
+  {% if post.categories contains 'es' %}
+          <h4><a href="{{ post.url }}">{{ post.title | truncate:200 }}</a></h4>
+  {% endif %}
+{% endfor %}  

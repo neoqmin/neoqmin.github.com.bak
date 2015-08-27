@@ -1,6 +1,8 @@
-```
-title:Jekyll on Windows
-```
+---
+title:  "Jekyll on Windows"
+date:   2015-08-27 23:20:00
+categories: jekyll
+---
 윈도우 OS에서 Jekyll 편집하고, 등록하기
 
 1. [설치][ruby-and-devkit]

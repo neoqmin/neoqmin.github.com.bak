@@ -12,30 +12,3 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-
-# language scope 
-defaults:
-  -
-    scope:
-      path: _posts/en
-    values:
-      layout: default
-      lang: en
-  -
-    scope:
-      path: _posts/fr
-    values:
-      layout: default
-      lang: fr
-  -
-    scope:
-      path: _posts/zh
-    values:
-      layout: default
-      lang: zh
-  -
-    scope:
-      path: _posts/kr
-    values:
-      layout: default
-      lang: kr
